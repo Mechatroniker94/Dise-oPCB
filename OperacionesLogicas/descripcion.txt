@@ -1,0 +1,5 @@
+Este pequeño proyecto consiste en elaborar una tarjeta electronica
+que pueda desarrollar las operaciones logicas basicas.
+
+Al final de proyecto se muestra el producto terminado diseñado con Altium Designer
+
